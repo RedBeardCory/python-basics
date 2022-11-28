@@ -11,22 +11,16 @@ Why did I choose python? Well I'm a software engineer and I use it professionall
 ## Lesson Roadmap
 
 1. Install Guide
-
-    🚧 Under Construction
-
 2. Your First Program
-
-    🚧 Under Construction
-
 3. Variables
 
     🚧 Under Construction
 
-4. Functions
+4. Data Types
 
     🚧 Under Construction
 
-5. Data Types
+5. Functions
 
     🚧 Under Construction
 
